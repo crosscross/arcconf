@@ -64,3 +64,102 @@ Logical device number 1
    Status of logical device                 : Optimal
    Size                                     : 304118 MB
    Read-cache mode                          : Enabled
+   MaxCache preferred read cache setting    : Disabled
+   MaxCache read cache setting              : Disabled
+   Write-cache mode                         : Disabled (write-through)
+   Write-cache setting                      : Disabled (write-through)
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : No
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Segment 0                                : Present (Controller:1,Enclosure:0,Slot:2)      WD-WCAT1F555555
+
+
+----------------------------------------------------------------------
+Physical Device information
+----------------------------------------------------------------------
+      Device #0
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,0(0:0)
+         Reported Location                  : Enclosure 0, Slot 0
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : WDC
+         Model                              : WD5003ABYX-0
+         Firmware                           : 01.01S01
+         Serial number                      : WD-WMAYP1111111
+         Size                               : 476940 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+         NCQ status                         : Enabled
+      Device #1
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,1(1:0)
+         Reported Location                  : Enclosure 0, Slot 1
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : WDC
+         Model                              : WD5003ABYX-0
+         Firmware                           : 01.01S01
+         Serial number                      : WD-WMAYP2222222
+         Size                               : 476940 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+         NCQ status                         : Enabled
+      Device #2
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 1.5 Gb/s
+         Reported Channel,Device(T:L)       : 0,2(2:0)
+         Reported Location                  : Enclosure 0, Slot 2
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : WDC
+         Model                              : WD3202ABYS-0
+         Firmware                           : 02.03B03
+         Serial number                      : WD-WCAT1F444444
+         Size                               : 305245 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+         NCQ status                         : Enabled
+      Device #3
+         Device is an Enclosure services device
+         Reported Channel,Device(T:L)       : 2,0(0:0)
+         Enclosure ID                       : 0
+         Type                               : SES2
+         Vendor                             : ADAPTEC
+         Model                              : Virtual SGPIO
+         Firmware                           : 0001
+         Status of Enclosure services device
+
+
+Command completed successfully.
